@@ -152,7 +152,7 @@ JBoss Setup
 	-Download the latest ant from http://ant.apache.org/bindownload.cgi.
 	-Unzip the file into /opt.
 	-Create an ANT_HOME environment variable by adding the following lines to /etc/profile
-		export ANT_HOME=/opt/apache-ant-1.8.2
+		export ANT_HOME=/opt/apache-ant-1.8.3
 		export PATH=$PATH:$ANT_HOME/bin
 		
 * EDSP 5.2 and SOA-P 5.2
